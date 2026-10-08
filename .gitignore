@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+mbed-os/
+lvgl/
+lvgl_backup/
+components/
+Utilities/
+bsp-b-l475e-iot01/
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
