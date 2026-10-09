@@ -107,3 +107,7 @@ docs/media/          track and car photos
 - `car/bbcar` and `car/pwmin`: Boe-Bot car and PWM-input libraries provided by the NTHU EE2405 course (PwmIn originally from [mbed.com](https://os.mbed.com/teams/PRJ1401_LIDAR/code/PwmIn/)).
 - `dashboard/hal_stm_lvgl`: LVGL display/touch port for the STM32F769I-Discovery.
 - `wifi_mqtt/MQTTNetwork.h`: course-provided Mbed socket adapter for Paho MQTT.
+
+## License
+
+MIT for my own code (see [LICENSE](LICENSE)). `car/bbcar`, `car/pwmin`, `*/wifi_mqtt/MQTTNetwork.h` and `dashboard/hal_stm_lvgl` come from the course or upstream projects and keep their original terms.
